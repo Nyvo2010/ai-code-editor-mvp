@@ -1,7 +1,8 @@
 # ai-code-editor-mvp
 
-Minimal MVP for ai-code-editor-mvp
+Prototype backend for AI-first code editor MVP.
 
-## Overview
+Endpoints:
+- GET /api/hello -> health
 
-This is a prototype built by Clawd.
+Run: npm install && npm start
